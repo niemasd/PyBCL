@@ -1,2 +1,2 @@
 # PyBCL
-An open-source pure-Python package for handling Illumina sequencing BCL files
+An open-source pure-Python package for handling Illumina sequencing BCL files. Note that PyBCL was created from scratch by referring to the [``bcl2fastq`` manual](wiki/bcl2fastq_v1.8.4.pdf) (which can be found publicly on [Illumina's website](https://support.illumina.com/content/dam/illumina-support/documents/documentation/software_documentation/bcl2fastq/bcl2fastq_letterbooklet_15038058brpmi.pdf)). PyBCL did not rely on any reverse-engineering of any proprietary Illumina code.
